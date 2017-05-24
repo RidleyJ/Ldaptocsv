@@ -1,0 +1,7 @@
+dn: uid=coolgal,ou=People,dc=umich,dc=edu
+displayName: Jidley Rones
+
+
+dn: uid=coolguy,ou=People,dc=umich,dc=edu
+displayName: Slarty Blartfast
+
