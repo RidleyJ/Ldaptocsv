@@ -9,7 +9,7 @@ I am going to do an ldapsearch with -LLL so I don't get any comments or anything
 With all of that being said, I open bash and run the following command:
 
 
-  ldapsearch -LLL -f inputfilter.txt -x -H <yourldaphost> -b "dc=umich,dc=edu" -s sub "(|(%s))" displayName > ldapresults.txt
+\tldapsearch -LLL -f inputfilter.txt -x -H <yourldaphost> -b "dc=umich,dc=edu" -s sub "(|(%s))" displayName > ldapresults.txt
   
 
 Once that is done, I can run the python script.  
