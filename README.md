@@ -12,5 +12,5 @@ With all of that being said, I open bash and run the following:
   
 Once that is done, I can run the python script.  
 
-Thanks to the people here http://blog.appliedinformaticsinc.com/how-to-parse-and-convert-json-to-csv-using-python/ for the actual csv.writer part!
+Thanks to the people here http://blog.appliedinformaticsinc.com/how-to-parse-and-convert-json-to-csv-using-python/ for the actual csv.writer part.
 
